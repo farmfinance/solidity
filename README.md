@@ -1,5 +1,5 @@
 # solidity
-farm solidity
+farmsolidity
 
 HBTC-USDT-LP:0xFd63960840508e32f78D15682A0c23af17eD12d6
 
